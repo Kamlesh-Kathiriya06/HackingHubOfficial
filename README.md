@@ -27,10 +27,10 @@
 <p align="left">
 
 <a href="https://fb.com/hacking hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hacking hub" height="30" width="40" /></a>
-<a href="https://instagram.com/hacking hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hacking hub" height="30" width="40" /></a>
+<a href="https://instagram.com/@_mr.k_kathiriya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hacking hub" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCJX5jk0LVjvrYukpq8TioiA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://github.com/hackinghubofficial" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudo" height="30" width="40" /></a>
-<a href="https://discord.gg/Hacking Hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hacking Hub" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
